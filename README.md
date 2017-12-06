@@ -4,12 +4,12 @@ Matplot3D for JAVA是一个基于JAVA  SE  1.5环境开发的工具包。以jar�
         Matplot3D for JAVA是一个基于JAVA  SE  1.5环境开发的工具包。
         以jar包的方式存在。它提供易于使用的API，可以方便的生成3维效果的各种图形图表。
         这种开发工具可用于大数据的可视化和数学分析等领域。
-![输入图片说明](https://gitee.com/uploads/images/2017/1204/204114_3c2c6022_1658632.png "1.png")
-![输入图片说明](https://gitee.com/uploads/images/2017/1204/204129_e1c89364_1658632.png "2.png")
-![输入图片说明](https://gitee.com/uploads/images/2017/1204/204137_0a5930ff_1658632.png "3.png")
-![输入图片说明](https://gitee.com/uploads/images/2017/1204/204143_10424c87_1658632.png "4.png")
-![输入图片说明](https://gitee.com/uploads/images/2017/1204/204151_fe913a9b_1658632.png "5.png")
-![输入图片说明](https://gitee.com/uploads/images/2017/1205/162633_4b2c21ba_1658632.gif "GIF.gif")
+![输入图片说明](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/1.png)
+![输入图片说明](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/2.png)
+![输入图片说明](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/3.png)
+![输入图片说明](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/4.png)
+![输入图片说明](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/5.png)
+![输入图片说明](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/mov.gif)
 `Matplot3D for JAVA工具库采用外观（FACADE）设计模式提供方便的绘图API。`
 `Matplot3DMgr 是工具库的外观类。其中常量属性成员如下`
 

@@ -36,10 +36,7 @@ Matplot3D for JAVA是一个基于JAVA  SE  1.5环境开发的工具包。以jar�
     void	show()
 	    直接在独立的窗口中显示绘制图像
     boolean	updateView(long timeToWait) 
-	    刷新绘制面板，并在timeToWait毫秒内阻止再刷新。如果刷新成功返回true,否则返回false。编程模式为:
-        while(updateView(20)){
-            //change something
-        }
+	    刷新绘制面板，并在timeToWait毫秒内阻止再刷新。如果刷新成功返回true,否则返回false。
 
     Jpanel	getPanel()
 	    获取绘制面板JPanel对象。此对象与show()方法中现实的为同一对象，因此此方法不要和show()方法同时使用

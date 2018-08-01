@@ -15,7 +15,7 @@ Matplot3D for JAVA是一个基于JAVA  SE  1.5环境开发的工具包。以jar�
 `Matplot3DMgr 是工具库的外观类。其中常量属性成员如下`
 
     int	DATA_TYPE_DOTS
-	            散点数据输入类型
+	    散点数据输入类型
     int	DATA_TYPE_FUNCTION3D
 	    空间函数输入类型
     int	DATA_TYPE_CURVE2DS
@@ -41,13 +41,13 @@ Matplot3D for JAVA是一个基于JAVA  SE  1.5环境开发的工具包。以jar�
     Jpanel	getPanel()
 	    获取绘制面板JPanel对象。此对象与show()方法中现实的为同一对象，因此此方法不要和show()方法同时使用
     void	setDataInputType(int type)
-	    设置输入数据模式。
+	    设置输入数据模式。可设置值如下：
         MatPlot3DMgr.DATA_TYPE_DOTS
         MatPlot3DMgr.DATA_TYPE_FUNCTION3D
         MatPlot3DMgr.DATA_TYPE_CURVE2DS
         MatPlot3DMgr.DATA_TYPE_MATRIX 
     void 	setShowType(int showType) 
-	    设置输出显示模式。
+	    设置输出显示模式。可设置值如下：
         MatPlot3DMgr.SHOW_TYPE_DOTS 
         MatPlot3DMgr.SHOW_TYPE_SURFACE
         MatPlot3DMgr.SHOW_TYPE_PLAN_SHAPE

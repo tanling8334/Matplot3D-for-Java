@@ -9,7 +9,7 @@ Matplotlib 3D for JAVA是一个基于JAVA  SE  1.5环境开发的三维图形图
 
 ![三维热力、等高](https://images.gitee.com/uploads/images/2019/0911/100114_e64861fb_1658632.gif )  
     ---------------------------------------------------------  
-![动态曲面](https://images.gitee.com/uploads/images/2019/0911/100216_72059ffe_1658632.gif "wave.gif")  
+![动态曲面](https://images.gitee.com/uploads/images/2019/0911/100216_72059ffe_1658632.gif )  
     ---------------------------------------------------------  
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0912/153145_68f71a4e_1658632.gif "函数曲面 静态.gif")  
     ---------------------------------------------------------  

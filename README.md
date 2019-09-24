@@ -26,7 +26,7 @@ Matplotlib 3D for JAVA是一个基于JAVA  SE  1.5环境开发的三维图形图
 ![3D柱状 动态](https://images.gitee.com/uploads/images/2019/0911/100657_6b8b48b5_1658632.gif "动态柱状.gif")  
     ---------------------------------------------------------  
 
-![输入图片说明](https://gitee.com/uploads/images/2017/1204/204114_3c2c6022_1658632.png "1.png")
+![输入图片说明](https://github.com/tanling8334/Matplotlib-3D-for-Java/edit/master/README.md "1.png")
 ![输入图片说明](https://gitee.com/uploads/images/2017/1204/204129_e1c89364_1658632.png "2.png")
 ![输入图片说明](https://gitee.com/uploads/images/2017/1204/204137_0a5930ff_1658632.png "3.png")
 ![输入图片说明](https://gitee.com/uploads/images/2017/1204/204143_10424c87_1658632.png "4.png")

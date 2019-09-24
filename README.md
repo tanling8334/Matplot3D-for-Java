@@ -7,23 +7,19 @@ Matplotlib 3D for JAVA是一个基于JAVA  SE  1.5环境开发的三维图形图
        Matplotlib 3D for JAVA是一个基于JAVA  SE  1.5环境开发的三维图形图表组件。以jar包的方式存在。内含自主研发三维造型算法引擎，轻量级（jar不超过200k），不依赖硬件纯JAVA实现。 它提供易于使用的API，可以方便的生成3维效果的各种图形图表。
         此组件、开发工具可用于大数据的可视化和数学分析等领域。
 
-![三维热力、等高](https://images.gitee.com/uploads/images/2019/0911/100114_e64861fb_1658632.gif )  
+![三维热力、等高](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/4_DG_RLsmall.gif )  
     ---------------------------------------------------------  
-![动态曲面](https://images.gitee.com/uploads/images/2019/0911/100216_72059ffe_1658632.gif )  
+![动态曲面](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/1_wave%20small.gif )  
     ---------------------------------------------------------  
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0912/153145_68f71a4e_1658632.gif "函数曲面 静态.gif")  
+![引擎展示](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/3_MQ.gif "MQ.gif")  
     ---------------------------------------------------------  
-![引擎展示](https://images.gitee.com/uploads/images/2019/0911/100317_f9cf51d5_1658632.gif "MQ.gif")  
+![引擎展示](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/2_GIF1.gif "GIF1.gif")  
     ---------------------------------------------------------  
-![引擎展示](https://images.gitee.com/uploads/images/2019/0911/100516_cf6fe0fa_1658632.gif "GIF1.gif")  
+![点阵 动态](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/6_FDots_mov2.gif "函数点阵 动态2.gif")  
     ---------------------------------------------------------  
-![点阵](https://images.gitee.com/uploads/images/2019/0911/100552_27b8c99d_1658632.gif "函数点阵 动态1.gif")  
+![折线 动态](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/7_ZX_mov.gif "折线 动态.gif")  
     ---------------------------------------------------------  
-![点阵 动态](https://images.gitee.com/uploads/images/2019/0911/100611_640dbdf0_1658632.gif "函数点阵 动态2.gif")  
-    ---------------------------------------------------------  
-![折线 动态](https://images.gitee.com/uploads/images/2019/0911/100639_b345356d_1658632.gif "折线 动态.gif")  
-    ---------------------------------------------------------  
-![3D柱状 动态](https://images.gitee.com/uploads/images/2019/0911/100657_6b8b48b5_1658632.gif "动态柱状.gif")  
+![3D柱状 动态](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/5_BAR_mov.gif "动态柱状.gif")  
     ---------------------------------------------------------  
 
 ![输入图片说明](https://github.com/tanling8334/Matplotlib-3D-for-Java/edit/master/README.md "1.png")

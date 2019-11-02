@@ -11,17 +11,19 @@ Matplotlib 3D for JAVA是一个基于JAVA SE 1.5环境开发的三维图形图�
 
 ![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/1Fog_cub.gif )  
     ---------------------------------------------------------  
-![动态曲面](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/1_wave%20small.gif )  
+![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic2DG，RLsmall.gif )  
     ---------------------------------------------------------  
-![引擎展示](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/3_MQ.gif "MQ.gif")  
+![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/3wave small.gif )  
     ---------------------------------------------------------  
-![引擎展示](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/2_GIF1.gif "GIF1.gif")  
+![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/4MQ.gif )  
     ---------------------------------------------------------  
-![点阵 动态](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/6_FDots_mov2.gif "函数点阵 动态2.gif")  
+![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/5fp move2.gif )  
     ---------------------------------------------------------  
-![折线 动态](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/7_ZX_mov.gif "折线 动态.gif")  
+![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/6GIF1.gif )  
     ---------------------------------------------------------  
-![3D柱状 动态](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/5_BAR_mov.gif "动态柱状.gif")  
+![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/7zx move.gif )  
+    ---------------------------------------------------------  
+![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/8bar_move.gif )  
     ---------------------------------------------------------  
 
 ![输入图片说明](https://github.com/tanling8334/Matplotlib-3D-for-Java/edit/master/README.md "1.png")

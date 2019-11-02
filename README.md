@@ -11,7 +11,7 @@ Matplotlib 3D for JAVA是一个基于JAVA SE 1.5环境开发的三维图形图�
 
 ![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/1Fog_cub.gif )  
     ---------------------------------------------------------  
-![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic2DG，RLsmall.gif )  
+![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/2DG，RLsmall.gif )  
     ---------------------------------------------------------  
 ![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/3wave small.gif )  
     ---------------------------------------------------------  

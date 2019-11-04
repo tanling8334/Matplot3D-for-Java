@@ -10,24 +10,35 @@ Matplotlib 3D for JAVA是一个基于JAVA SE 1.5环境开发的三维图形图�
         此组件、开发工具可用于大数据的可视化和数学分析等领域。
 
 ![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/1Fog_cub.gif )  
-    ---------------------------------------------------------  
 ![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/2DG，RLsmall.gif )  
-    ---------------------------------------------------------  
 ![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/3wave_small.gif )  
-    ---------------------------------------------------------  
 ![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/4MQ.gif )  
-    ---------------------------------------------------------  
 ![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/5fp_move2.gif )  
-    ---------------------------------------------------------  
 ![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/6GIF1.gif )  
-    ---------------------------------------------------------  
 ![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/7zx_move.gif )  
-    ---------------------------------------------------------  
 ![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/8bar_move.gif )  
+
+
+![三维热力、等高](https://images.gitee.com/uploads/images/2019/0911/100114_e64861fb_1658632.gif "dgrl_small.gif")  
+    ---------------------------------------------------------  
+![动态曲面](https://images.gitee.com/uploads/images/2019/0911/100216_72059ffe_1658632.gif "wave.gif")  
+    ---------------------------------------------------------  
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0912/153145_68f71a4e_1658632.gif "hsqm_.gif")  
+    ---------------------------------------------------------  
+![引擎展示](https://images.gitee.com/uploads/images/2019/0911/100317_f9cf51d5_1658632.gif "MQ.gif")  
+    ---------------------------------------------------------  
+![引擎展示](https://images.gitee.com/uploads/images/2019/0911/100516_cf6fe0fa_1658632.gif "GIF1.gif")  
+    ---------------------------------------------------------  
+![点阵](https://images.gitee.com/uploads/images/2019/0911/100552_27b8c99d_1658632.gif "hsdz1.gif")  
+    ---------------------------------------------------------  
+![点阵 动态](https://images.gitee.com/uploads/images/2019/0911/100611_640dbdf0_1658632.gif "hsdz2.gif")  
+    ---------------------------------------------------------  
+![折线 动态](https://images.gitee.com/uploads/images/2019/0911/100639_b345356d_1658632.gif "zxdt.gif")  
+    ---------------------------------------------------------  
+![3D柱状 动态](https://images.gitee.com/uploads/images/2019/0911/100657_6b8b48b5_1658632.gif "dtzz.gif")  
     ---------------------------------------------------------  
 
-
-![输入图片说明](https://github.com/tanling8334/Matplotlib-3D-for-Java/edit/master/README.md "1.png")
+![输入图片说明](https://gitee.com/uploads/images/2017/1204/204114_3c2c6022_1658632.png "1.png")
 ![输入图片说明](https://gitee.com/uploads/images/2017/1204/204129_e1c89364_1658632.png "2.png")
 ![输入图片说明](https://gitee.com/uploads/images/2017/1204/204137_0a5930ff_1658632.png "3.png")
 ![输入图片说明](https://gitee.com/uploads/images/2017/1204/204143_10424c87_1658632.png "4.png")

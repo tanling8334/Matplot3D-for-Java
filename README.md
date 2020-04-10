@@ -1,12 +1,12 @@
-# Matplotlib 3D for Java
+# Matplot3D for Java
 
 
 
-Matplotlib 3D for JAVA是一个基于JAVA SE 1.5环境开发的三维图形图表组件。以jar包的方式存在。超轻量级设计实现，jar文件大小不超过200KB。内含自主研发的三维几何造型、绘制算法，不依托图形硬件，不依托OpenGL、DriectX、JAVA 3D等基础库，纯JAVA语言软件实现，可以非常方便的将Matplotlib 3D for JAVA(V2.0)显示面板嵌入到自己JAVA GUI程序中。
+Matplot3D for JAVA是一个基于JAVA SE 1.5环境开发的三维图形图表组件。以jar包的方式存在。超轻量级设计实现，jar文件大小不超过200KB。内含自主研发的三维几何造型、绘制算法，不依托图形硬件，不依托OpenGL、DriectX、JAVA 3D等基础库，纯JAVA语言软件实现，可以非常方便的将Matplotlib 3D for JAVA(V2.0)显示面板嵌入到自己JAVA GUI程序中。
 
 本组件提供简单的外观API，可以方便生成三维效果的图形图表。支持鼠标等输入设备交互式操作，可方便的缩放和改变观察角度。V2.0版本全面显示支持动态编程，可实时生成三维模型动态改变动画。
 
-       Matplotlib 3D for JAVA是一个基于JAVA  SE  1.5环境开发的三维图形图表组件。以jar包的方式存在。内含自主研发三维造型算法引擎，轻量级（jar不超过200k），不依赖硬件纯JAVA实现。 它提供易于使用的API，可以方便的生成3维效果的各种图形图表。
+       Matplot3D for JAVA是一个基于JAVA  SE  1.5环境开发的三维图形图表组件。以jar包的方式存在。内含自主研发三维造型算法引擎，轻量级（jar不超过200k），不依赖硬件纯JAVA实现。 它提供易于使用的API，可以方便的生成3维效果的各种图形图表。
         此组件、开发工具可用于大数据的可视化和数学分析等领域。
 
 ![](https://github.com/tanling8334/Matplotlib-3D-for-Java/blob/master/pic/1Fog_cub.gif )  

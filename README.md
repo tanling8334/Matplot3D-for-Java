@@ -2,6 +2,7 @@
 # Matplot3D for Java
 
 
+### 概述
 
  **Matplot3D for JAVA** 是一个基于JAVA  SE  1.8环境开发的三维图形图表组件。 **组件由纯JAVA SE 实现（Pure Java）** ，封装为一个jar包，jar文件大小不超过300KB。内含自主研发的三维几何造型、绘制算法，无需依赖OpenGL、DriectX和JAVA 3D等第三方库，其只依托JRE自带的类库即可（即只需安装了JAVA就可使用），可以非常方便的将Matplot3D for JAVA(V3.0)显示面板嵌入到自己JAVA GUI程序中。
 
@@ -11,12 +12,12 @@
 
       
 
-    Matplot3d_4j_sydh_x64_V3.0.jar为应用所需要依赖的包。
+ **Matplot3d_4j_sydh_x64_V3.0.jar** 为应用所需要依赖的包。
 
-    Matplot3d_4j_sydh_x64_V3.0_demo.jar为演示DEMO的可执行的JAR文件，内含展示效果及部分示例代码，使用时不需要引用这个包。如不清楚何运行可执行JAR的请自行百度一下（由于需要预载入的资源较多且展示多个画面，Demo启动会有点慢且会消耗较多内存，需要在64bit的JRE上运行）  
+ **Matplot3d_4j_sydh_x64_V3.0_demo.jar** 为演示DEMO的可执行的JAR文件，内含展示效果及部分示例代码， **使用时不需要引用这个包** 。如不清楚何运行可执行JAR的请自行百度一下（由于需要预载入的资源较多且展示多个画面，Demo启动会有点慢且会消耗较多内存，需要在64bit的JRE上运行）
 
 
-
+### 效果展示
 
 
 ![地形数据动图](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/demo.gif "地形数据动图")  
@@ -51,7 +52,7 @@
 
 
 
-`API如下`    
+### API文档     
 
 
 

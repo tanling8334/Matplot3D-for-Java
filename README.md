@@ -20,7 +20,7 @@
 ### 效果展示
 
 
-![地形数据动图](https://gitee.com/tanling8334/Matplot3D-for-Java/raw/master/image/demo.gif "地形数据动图")  
+![地形数据动图](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/demo.gif "地形数据动图")  
 =================================================================
 ![底层引擎展示动图（地球）](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/Earth.gif "底层引擎展示动图（地球）")  
 =================================================================

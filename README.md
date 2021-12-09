@@ -19,33 +19,33 @@
 
 
 
-![地形数据动图](image/demo.gif "地形数据动图")  
+![地形数据动图](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/demo.gif "地形数据动图")  
     ---------------------------------------------------------  
-![底层引擎展示动图（地球）](image/Earth.gif "底层引擎展示动图（地球）")  
+![底层引擎展示动图（地球）](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/Earth.gif "底层引擎展示动图（地球）")  
     ---------------------------------------------------------  
-![底层引擎展示动图（珠峰）](image/ZMLM.gif "底层引擎展示动图（珠峰）")  
+![底层引擎展示动图（珠峰）](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/ZMLM.gif "底层引擎展示动图（珠峰）")  
     ---------------------------------------------------------  
-![地形](image/地形.jpg "地形")  
+![地形](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/地形.jpg "地形")  
     ---------------------------------------------------------  
-![地形](image/点云.jpg "点云")  
+![地形](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/点云.jpg "点云")  
     ---------------------------------------------------------  
-![地形](image/函数曲面.jpg "函数曲面")  
+![地形](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/函数曲面.jpg "函数曲面")  
     ---------------------------------------------------------  
-![地形](image/混合数据.jpg "混合数据")  
+![地形](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/混合数据.jpg "混合数据")  
     ---------------------------------------------------------  
-![地形](image/马.jpg "马")  
+![地形](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/马.jpg "马")  
     ---------------------------------------------------------  
-![地形](image/散点.jpg "散点")  
+![地形](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/散点.jpg "散点")  
     ---------------------------------------------------------  
-![地形](image/双函数曲面.jpg "双函数曲面")  
+![地形](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/双函数曲面.jpg "双函数曲面")  
     ---------------------------------------------------------  
-![地形](image/云图.jpg "云图")  
+![地形](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/云图.jpg "云图")  
     ---------------------------------------------------------  
-![地形](image/珠峰.jpg "珠峰")  
+![地形](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/珠峰.jpg "珠峰")  
     ---------------------------------------------------------  
-![地形](image/地球.jpg "地球")  
+![地形](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/地球.jpg "地球")  
     ---------------------------------------------------------  
-![地形](image/折线.jpg "折线")  
+![地形](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/折线.jpg "折线")  
  ---------------------------------------------------------  
 ![地形](image/柱状图.jpg "柱状图")  
 

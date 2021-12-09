@@ -12,6 +12,7 @@ Matplot3D for JAVA是一个基于JAVA SE 1.5环境开发的三维图形图表组
         此组件、开发工具可用于大数据的可视化和数学分析等领域。
 
 
+![TEST](http://github.com/tanling8334/Matplot3D-for-Java/raw/master/pic/Earth.gif "Earth.gif")  
 
 ![三维热力、等高](https://images.gitee.com/uploads/images/2019/0911/100114_e64861fb_1658632.gif "dgrl_small.gif")  
     ---------------------------------------------------------  

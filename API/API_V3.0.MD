@@ -292,7 +292,7 @@ public void setHolder(Matplot3D4JMgrmgr)
 
     3、类 FunctionProcessor
     类全名 tanling.matplot3d.app.facade.FunctionProcessor
-FunctionProcessor 类继承自Processor类。函数处理器类，根据函数表达生成三维图形。
+FunctionProcessor 类继承自Processor类。函数处理器类，根据函数表达生成三维曲面图形，必须是连续函数图形，显示区域内不可存在极点、断点等等。
 3.1公共字段
 
     public  static int SHOW_TYPE_SURFACE
@@ -388,7 +388,7 @@ public abstract Double f(double x, double y)
 
     5、类 DataGridProcessor
     类全名 tanling.matplot3d.app.facade.DataGridProcessor
-DataGridProcessor类继承自FunctionProcessor类。DataGridProcessor是数据网格处理器。数据网格是指一个在x，y方向都均匀排列的点阵列。使用一个Double[][]表示数据，数组中的值为z（高度）值，值可以为null。x,y方向由于均匀分布，。在指定了各自的取值范围后即可换算为空间坐标的x,y坐标。需要注意的是Double[][]中存放的为数据，和显示的分段数不一定相等。
+DataGridProcessor类继承自FunctionProcessor类。DataGridProcessor是数据网格处理器。数据网格是指一个在x，y方向都均匀排列的点阵列。使用一个Double[][]表示数据，数组中的值为z（高度）值，值不可以为null。x,y方向由于均匀分布。在指定了各自的取值范围后即可换算为空间坐标的x,y坐标。需要注意的是Double[][]中存放的为数据，和显示的分段数不一定相等。显示的数据或图形必须是连续的，不可存在极点、断点等。
 
 5.1方法
 

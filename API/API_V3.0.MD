@@ -84,7 +84,7 @@ public  void removeProcessor(Processor processor)
 
 
 public  void saveImage(File file, int width, int height)
-保存生成的图像到指定文件。可用于动态WEB页面，根据浏览器传入的参数生成图片返回浏览器端显示。参数 file为指定文件，width是图片高，height是图片宽。
+保存生成的图像到指定文件，注意如果file指向的文件已存在会覆盖掉原文件。可用于动态WEB页面，根据浏览器传入的参数生成图片返回浏览器端显示。参数 file为指定文件，width是图片高，height是图片宽。
 
 
 public  void setAxisNameTextColor(Color color)
@@ -393,7 +393,7 @@ DataGridProcessor类继承自FunctionProcessor类。DataGridProcessor是数据�
 5.1方法
 
 public void addData(Double[][] data, String name, Color color, Range rangeX, Range rangeY, int  stepX, int stepY, float alpha)
-加入一组数据阵列数据，并指定x,y范围，显示分段,颜色和不透明度。参数说明如下：
+加入一组数据阵列数据，数组中元素不要为null，并指定x,y范围，显示分段,颜色和不透明度。参数说明如下：
 1、data:数据阵列二维数组，第一个下标代表X方向,第二个下标代表Y方向；
 2、name：名字；
 3、color：颜色；
@@ -405,7 +405,7 @@ public void addData(Double[][] data, String name, Color color, Range rangeX, Ran
 
 
 public void addData(Double[][] data, String name, Range rangeX, Range rangeY, int stepX, int stepY, ColorStyle cs, float alpha)
-加入一组数据阵列数据，并指定x,y范围，显示分段,颜色配色风格和不透明度。参数说明如下：
+加入一组数据阵列数据，数组中元素不要为null，并指定x,y范围，显示分段,颜色配色风格和不透明度。参数说明如下：
 1、data:数据阵列二维数组，第一个下标代表X方向,第二个下标代表Y方向；
 2、name：名字；
 3、rangeX：数据在X方向的分布范围；

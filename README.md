@@ -67,7 +67,8 @@
 
 ![矢量场流线](pic/线圈电流磁场.gif "矢量场流线") 
 
-'''
+'''    
+
 public class SimpleVectorFieldDemo {
 	public static void main(String[] args) {
 
@@ -125,7 +126,8 @@ public class SimpleVectorFieldDemo {
 
 		matPlot3DMgr.showMotion(-1, 15, 0);
 	}
-}
+}   
+   
 '''
 
 <br/> 

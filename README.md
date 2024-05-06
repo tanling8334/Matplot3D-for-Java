@@ -37,7 +37,7 @@
 
 **C60分子结构**
 
-![C60分子结构](pic/C60.gif "C60分子结构")          
+![C60分子结构](pic/C60.gif "C60分子结构")     
 <br/> 
 <br/> 
 ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
@@ -65,7 +65,69 @@
 
 **矢量场流线** 
 
-![矢量场流线](pic/线圈电流磁场.gif "矢量场流线")  
+![矢量场流线](pic/线圈电流磁场.gif "矢量场流线") 
+
+'''
+public class SimpleVectorFieldDemo {
+	public static void main(String[] args) {
+
+		VectorFieldProcessor processer = new VectorFieldProcessor();
+
+		Matplot3D4JMgr matPlot3DMgr = new Matplot3D4JMgr(processer);
+
+		Vector3D v1 = new Vector3D(1, 0, 0);
+		Vector3D v2 = new Vector3D(-0.1, 0, 0);
+		Vector3D vNull = new Vector3D(0, 0, 0);
+
+		class MyMapper1 implements Point3dVector3dMapper {
+			public Vector3D f(Point3D p) {
+				if (p.y() > 0) {
+					return v1;
+				} else {
+					return vNull;
+				}
+			}
+
+			public void setAdditionalPrar(Object additionalprar) {}
+		}
+
+		class MyMapper2 implements Point3dVector3dMapper {
+			public Vector3D f(Point3D p) {
+				if (p.y() < 0) {
+					return v2;
+				} else {
+					return vNull;
+				}
+			}
+
+			public void setAdditionalPrar(Object additionalprar) {}
+		}
+
+		processer.addData(new MyMapper1(), "1", Color.RED, new Range(-9, 9), new Range(-9, 9), new Range(-9, 9));
+
+		processer.addData(new MyMapper2(), "2", Color.BLUE, new Range(-9, 9), new Range(-9, 9), new Range(-9, 9));
+
+		List<Point3D> seeds = new ArrayList<Point3D>();
+
+		for (double z = -9; z <= 9; z += 1.2) {
+			for (double y = -9; y <= 9; y += 1.2) {
+				seeds.add(new Point3D(0, y, z));
+			}
+		}
+
+		processer.setPropertyToAll("seeds", seeds);
+		processer.setPropertyToAll("alphaNoise", 0.0);
+
+		matPlot3DMgr.setTitle("矢量场流线");
+		matPlot3DMgr.setAppearanceTheme(Matplot3D4JMgr.APPEARANCE_THEME_DARK);
+
+		matPlot3DMgr.setCoordianteSysShowType(Matplot3D4JMgr.COORDINATE_SYS_ALWAYS_FURTHER);
+
+		matPlot3DMgr.showMotion(-1, 15, 0);
+	}
+}
+'''
+
 <br/> 
 <br/> 
 ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣

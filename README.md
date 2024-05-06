@@ -59,6 +59,53 @@
 **网格曲面** 
 
 ![网格曲面](pic/网格曲面.jpg "网格曲面")  
+简单样例代码
+```
+public class MobiusStripDemo {
+	public static void main(String[] args) throws Exception {
+
+		GridMeshProcessor processer = new GridMeshProcessor();
+
+		Matplot3D4JMgr matPlot3DMgr = new Matplot3D4JMgr(processer);
+
+		GridMeshMapper f = new GridMeshMapper() {
+
+			public Point3D f(double d1, double d2) {
+
+				double sita = d1;
+				double offset = d2;
+
+				double baseR = 12;// 半径
+
+				double r = 3.6 * Math.cos(sita * 3 / 2) + baseR;
+
+				double fai;// 自旋角
+
+				fai = sita * 1.75;// 自旋角是方位角的1.75
+
+				double x = (r + (offset * Math.cos(fai))) * Math.cos(sita);
+				double y = (r + (offset * Math.cos(fai))) * Math.sin(sita);
+				double z = offset * Math.sin(fai) + 3.6 * Math.sin(sita * 3 / 2);
+
+				return new Point3D(x, y, z);
+			}
+
+			public void setAdditionalPrar(Object additionalprar) {}
+		};
+
+		double[] sita = FunctionSpaceUtil.lineSpace(0, Math.PI * 4, 300);
+
+		double[] offset = FunctionSpaceUtil.lineSpace(-3.1, 3.1, 5);
+
+		processer.addData(f, sita, offset, "1",new TopBottomColorStyle(ColorStyle.DEFAULT_COLORS_REVERSE_ARRAY) ,1f);
+
+		matPlot3DMgr.setCoordianteSysShowType(matPlot3DMgr.COORDINATE_SYS_ALWAYS_FURTHER);
+		matPlot3DMgr.setTitle("Mobius strip demo");
+
+		matPlot3DMgr.show();
+	}
+}
+```
 <br/> 
 <br/> 
 ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣

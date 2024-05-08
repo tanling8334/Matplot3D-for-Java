@@ -25,7 +25,7 @@
 
  **Matplot3d_4j_sydh_x64_V5.0.jar** 为应用所需要依赖的包，仅将此包文件导入项目即可使用。
 
- **Matplot3d_4j_sydh_x64_V5.0_demo.jar** 为演示DEMO的可执行的JAR文件，内含展示效果及部分示例代码， **使用时不需要引用这个包** 。如不清楚何运行可执行JAR的请自行百度一下（需要在64bit的JRE上运行）  
+ **Matplot3d_4j_sydh_x64_V5.0_demo.jar** 为演示DEMO的可执行的JAR文件，内含展示效果及部分示例代码， **使用时不需要引用这个包** 。在安装有64bit的JRE的电脑上一般双击运行即可（或者用命令行或批处理文件运行 ，运行的命令是：  "C:\Program Files\Java\....你的java安装根目录...\bin\java.exe" -jar Matplot3d_4j_sydh_x64_V5.0_demo.jar）。  
 
 ---
 ### 作者联系方式
